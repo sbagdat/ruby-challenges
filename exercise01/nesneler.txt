@@ -1,0 +1,15 @@
+pelerinli
+şapkalı
+ceketli
+pançolu
+tişörtlü
+etekli
+montlu
+gömlekli
+elbiseli
+eşofmanlı
+şortlu
+mayolu
+pijamalı
+sabahlıklı
+gecelikli

@@ -9,8 +9,9 @@
 
 kod = "ROYİNER UR MESLİBSEP"
 
-# ---------------------------------------------------------------
+# --------------------------------------------------------------|
 # | TALİMATLAR                                                  |
+# --------------------------------------------------------------|
 # | 0. Koddaki son karakteri sil.                               |
 # | 1. Kodun yedinci indeksine 'Ğ?Ö-' karakterlerini ekle       |
 # | 2. Kodun -12 indeksine 'QY!BX,' karakterlerini ekle.        |
