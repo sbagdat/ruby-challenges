@@ -1,3 +1,6 @@
-# ruby-exercises
+# Ruby Challenges
 
-Derslerde kullandığım bazı alıştırmalara burada yer vereceğim.
+Ruby challenges in Turkish.
+
+* [Challenge 00](https://github.com/sbagdat/ruby-challenges/tree/master/challenge00)
+* [Challenge 01](https://github.com/sbagdat/ruby-challenges/tree/master/challenge01)
