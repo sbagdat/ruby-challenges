@@ -1,0 +1,1 @@
+# Ödev şu anda aktif olduğundan cevaplar haftaya gelecek.
