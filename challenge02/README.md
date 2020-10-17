@@ -13,7 +13,7 @@ kadin_tisort = [42, 47, 49, ...]
 Tişörtlerin genişlikleri ve beden etiketi eşleşmeleri şöyledir:
 <br>
 
-### **∆ Erkek Tişört Ölçüleri**
+### ∆ Erkek Tişört Ölçüleri
 
 | **Genişlik(cm)**  | **Beden**    |
 | :---------------: | ------------:|
@@ -24,7 +24,7 @@ Tişörtlerin genişlikleri ve beden etiketi eşleşmeleri şöyledir:
 
 <br>
 
-### **∆ Kadın Tişört Ölçüleri**
+### ∆ Kadın Tişört Ölçüleri
 
 | **Genişlik(cm)**  | **Beden**    |
 | :---------------: | ------------:|
